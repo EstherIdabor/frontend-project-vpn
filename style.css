@@ -402,8 +402,15 @@ footer{
   }
 
   .brand-images{
-    display: none;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
   } 
+  .amazon {
+    margin-left: -2rem;
+  }
 
   .suscribe-now-container{
     position: relative;
