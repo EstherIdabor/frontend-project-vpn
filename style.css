@@ -429,8 +429,8 @@ footer{
   .footer-subsection {
     display: flex;
     flex-direction: column;
-    justify-content: start;
-    align-items: center;
+    /*justify-content: center;*/
+    align-items: start;
   
   }
   .icon-section{
